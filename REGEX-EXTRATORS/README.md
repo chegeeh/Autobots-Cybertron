@@ -1,0 +1,1 @@
+Extract emails and phone numbers from any webpage/pdf or text by Pressing ctrl+A   to highlight all text and copy to clipboard, then run this python script  to collect the data to a file and output to screen.
