@@ -1,0 +1,1 @@
+Covers pro-grammatically reading Word and PDF documents.
